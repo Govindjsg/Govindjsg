@@ -21,5 +21,48 @@ Connect with me:
 https://www.linkedin.com/in/govind-singh-077211256/
 Languages and Tools:
 
-android bootstrap cplusplus css3 dart figma firebase flutter git html5 java javascript kotlin 
+Software DevelopmentSoftware Development
+
+Agile DevelopmentAgile Development
+
+Performance OptimizationPerformance Optimization
+
+Debugging and TroubleshootingDebugging and Troubleshooting
+
+Interpersonal CommunicationInterpersonal Communication
+
+
+HTML | CSS | JAVA SCRIPT | JSON | MYSQL | SQL
+
+UX/ UI 
+
+Figma
+
+Android SDK Android SDK 
+
+Multiple Design patterns - MVC, MVP, MVV Multiple Design patterns - MVC, MVP, MVV 
+
+Database DesignDatabase Design
+
+API Integration - RESTful and SOAP Web-services API Integration - RESTful and SOAP Web-services 
+
+Google APIs Google APIs 
+
+Push Notifications / Maps APIs Push Notifications / Maps APIs 
+
+Google AnalyticsGoogle Analytics
+
+Amplitude AnalyticsAmplitude Analytics
+
+FirebaseFirebase
+
+CORE JAVA and JAVA Collections
+
+Kotlin
+
+Firebase
+
+Xamrene ASP Dot NET Cross Plateform
+
+
 
