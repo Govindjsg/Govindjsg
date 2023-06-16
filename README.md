@@ -21,9 +21,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Govindjsg?tab=repositories](https://github.com/Govindjsg?tab=repositories)
 
-- 📝 I sometimes code on leatcode | hackerthron [https://leetcode.com/govind2022/](https://leetcode.com/govind2022/)
+- 📝 I sometimes code on leetcode | hackerthron [https://leetcode.com/govind2022/](https://leetcode.com/govind2022/)
 
-- 💬 Ask me about **JAVA | KOTLIN | ANDROID | RestAPI**
+- 💬 Ask me about **JAVA | KOTLIN | ANDROID | JETPACK COMPOSE | RestAPI**
 
 - 📫 How to reach me **govindjsk719@gmail.com**
 
