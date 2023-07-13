@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/@govindjsg19" target="blank"><img src="https://img.shields.io/twitter/follow/@govindjsg19?logo=twitter&style=for-the-badge" alt="@govindjsg19" /></a> </p>
 <p align="left">My Website : (https://govindjsg.github.io/#home)</p>
-- 🔭 I’m currently working on [YashRoopCollage App](https://github.com/Govindjsg/YashRoopCollage-App)
+- 🔭 I’m currently working on Strathclyde Collage App
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
