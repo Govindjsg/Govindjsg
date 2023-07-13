@@ -17,8 +17,6 @@
 
 - 👯 I’m looking to collaborate on [Music Player App](https://github.com/Govindjsg/MusicPlayer-master)
 
-- 🤝 I’m looking for help with [YashRoopCollage App](https://github.com/Govindjsg/YashRoopCollage-App)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Govindjsg?tab=repositories](https://github.com/Govindjsg?tab=repositories)
 
 - 📝 I sometimes code on leetcode | hackerthron [https://leetcode.com/govind2022/](https://leetcode.com/govind2022/)
