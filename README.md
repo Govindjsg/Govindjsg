@@ -18,25 +18,25 @@
 - 💬 Ask me about FrontEnd Development **
 
 React.js
-AngularJS
-SASS
-jQuery
-JavaScript
-Cascading Style Sheets (CSS)
-HTML5
-Node.js
-Bootstrap
-Front-end Development
-Git
-Web Development
-Responsive Web Design
-HTML
-Redux.js
-AJAX
-TypeScript
-User Interface Design
-JSON
-Gulp.js
+| AngularJS
+| SASS
+| jQuery
+| JavaScript
+| Cascading Style Sheets (CSS)
+| HTML5
+| Node.js
+| Bootstrap
+| Front-end Development
+| Git
+| Web Development
+| Responsive Web Design
+| HTML
+| Redux.js
+| AJAX
+| TypeScript
+| User Interface Design
+| JSON
+| Gulp.js
 
 - 📫 How to reach me **govindjsg19@gmail.com**
 
