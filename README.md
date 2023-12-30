@@ -12,19 +12,33 @@
 <p align="left"> <a href="https://twitter.com/@govindjsg19" target="blank"><img src="https://img.shields.io/twitter/follow/@govindjsg19?logo=twitter&style=for-the-badge" alt="@govindjsg19" /></a> </p>
 <p align="left">My Website : (https://govindjsg.github.io/#home)</p>
 
-- 🔭 I’m currently working on Smart Home App
-
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 👯 I am looking for Collaboration in Smart Home App
 
 - 👨‍💻 All of my projects are available at [https://github.com/Govindjsg?tab=repositories](https://github.com/Govindjsg?tab=repositories)
 
-- 📝 I sometimes code on leetcode | hackerthron [https://leetcode.com/govind2022/](https://leetcode.com/govind2022/)
+- 💬 Ask me about FrontEnd Development **
 
-- 💬 Ask me about **JAVA | KOTLIN | ANDROID | JETPACK COMPOSE | RestAPI**
+React.js
+AngularJS
+SASS
+jQuery
+JavaScript
+Cascading Style Sheets (CSS)
+HTML5
+Node.js
+Bootstrap
+Front-end Development
+Git
+Web Development
+Responsive Web Design
+HTML
+Redux.js
+AJAX
+TypeScript
+User Interface Design
+JSON
+Gulp.js
 
-- 📫 How to reach me **govindjsk719@gmail.com**
+- 📫 How to reach me **govindjsg19@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/govind-singh-077211256](https://www.linkedin.com/in/govind-singh-077211256)
 
